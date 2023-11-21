@@ -1,3 +1,2 @@
-Github Repo: https://github.com/rayhanvito42/karsajobs kubernetes
-Github Package Frontend: https://github.com/users/rayhanvito42/packages/container/package/karsajobs-ui
-Github Package Backedn: https://github.com/users/rayhanvito42/packages/container/package/karsajobs
+Docker Package Frontend: https://hub.docker.com/repository/docker/rayhanvito27/karsajobs-ui/general
+Docker Package Backedn: https://hub.docker.com/repository/docker/rayhanvito27/karsajobs/general
